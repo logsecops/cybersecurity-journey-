@@ -1,0 +1,8 @@
+IP Address:
+Each device has a unique address.
+
+DNS:
+Converts domain name to IP address.
+
+Packet:
+Data is split into small pieces for transmission.
