@@ -1,0 +1,4 @@
+ping google.com
+ipconfig
+netstat
+tracert google.com
